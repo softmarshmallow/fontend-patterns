@@ -1,3 +1,10 @@
+# recoil demo
+
+**why recoil?**
+
+[Recoil.js — The New, Better State Management Library for React](https://medium.com/better-programming/recoil-js-the-new-better-state-management-library-for-react-1095947b5191)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
