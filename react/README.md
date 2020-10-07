@@ -4,11 +4,11 @@
 
 ## State management
 
-[**recoil**](/recoil)
+[**recoil**](./recoil)
 
 
 
 
 
-## [Storybook](/storybook)
+## [Storybook](./storybook)
 
