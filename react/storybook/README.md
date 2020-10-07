@@ -2,6 +2,9 @@
 
 ## Storybook how to
 
+### 0. demo
+[storybook demo](https://5f7d1f04988db70022c94c9a-bxsgusmnlc.chromatic.com/)
+
 ### Step 1. create react app with [create-react-app](https://create-react-app.dev/docs/adding-typescript/)
 
 ```shell
